@@ -1,411 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f386c741-448d-45f3-8c84-b7fc3bd7c0b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prontuario-unico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/._ProntuarioUnicoOficialTeste" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/._sonar-project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/config/liquibase/data/._authority.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/config/liquibase/data/._user.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/config/liquibase/data/._user_authority.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/config/liquibase/fake-data/._atendimento.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/config/liquibase/fake-data/._exame.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/config/tls/._keystore.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/static/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/static/app/._main.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/static/swagger-ui/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/static/swagger-ui/._oauth2-redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/templates/._error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/templates/mail/._activationEmail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/templates/mail/._creationEmail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/build/resources/main/templates/mail/._passwordResetEmail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/._lodash.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/compiler/bundles/._compiler.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/compiler/esm2015/._compiler.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/compiler/fesm2015/._compiler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/__ivy_ngcc__/fesm2015/._core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/bundles/._core.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/esm2015/src/compiler/._compiler.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/esm2015/src/di/interface/._interface.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/esm2015/src/interface/._interface.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/esm2015/src/reflection/._reflection.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/esm2015/src/util/._util.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/core/fesm2015/._core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/localize/esm2015/._localize.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/localize/esm2015/init/._init.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/localize/esm2015/src/localize/._localize.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@angular/localize/esm2015/src/utils/._utils.externs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@babel/core/lib/config/files/._types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@babel/helper-compilation-targets/lib/._types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/._.browserslistrc.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/._karma.conf.js.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/._tsconfig.app.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/._tsconfig.spec.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/._tslint.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/._favicon.ico.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/._index.html.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/._main.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/._polyfills.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/._styles.__style__.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/._test.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/assets/._.gitkeep.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/environments/._environment.prod.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/files/src/environments/._environment.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/other-files/._app.component.html.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/other-files/._app.component.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/other-files/._app.component.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/other-files/._app.module.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/application/other-files/._package.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/class/files/.___name@dasherize____type__.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/class/files/.___name@dasherize____type__.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/component/files/__name@dasherize@if-flat__/.___name@dasherize__.__type@dasherize__.__style__.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/component/files/__name@dasherize@if-flat__/.___name@dasherize__.__type@dasherize__.html.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/component/files/__name@dasherize@if-flat__/.___name@dasherize__.__type@dasherize__.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/component/files/__name@dasherize@if-flat__/.___name@dasherize__.__type@dasherize__.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/directive/files/__name@dasherize@if-flat__/.___name@dasherize__.directive.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/directive/files/__name@dasherize@if-flat__/.___name@dasherize__.directive.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/e2e/files/._protractor.conf.js.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/e2e/files/._tsconfig.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/e2e/files/src/._app.e2e-spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/e2e/files/src/._app.po.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/enum/files/.___name@dasherize__.enum.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/guard/files/.___name@dasherize__.guard.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/guard/files/.___name@dasherize__.guard.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/interceptor/files/__name@dasherize@if-flat__/.___name@dasherize__.interceptor.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/interceptor/files/__name@dasherize@if-flat__/.___name@dasherize__.interceptor.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/interface/files/.___name@dasherize____type__.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._README.md.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._karma.conf.js.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._ng-package.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._package.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._tsconfig.lib.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._tsconfig.lib.prod.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._tsconfig.spec.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/._tslint.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/src/.___entryFile__.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/library/files/src/._test.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/module/files/__name@dasherize@if-flat__/.___name@dasherize__-routing.module.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/module/files/__name@dasherize@if-flat__/.___name@dasherize__.module.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/pipe/files/__name@dasherize@if-flat__/.___name@dasherize__.pipe.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/pipe/files/__name@dasherize@if-flat__/.___name@dasherize__.pipe.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/service-worker/files/._ngsw-config.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/service/files/__name@dasherize@if-flat__/.___name@dasherize__.service.spec.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/service/files/__name@dasherize@if-flat__/.___name@dasherize__.service.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/third_party/github.com/Microsoft/TypeScript/lib/._typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/universal/files/root/._tsconfig.server.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/universal/files/src/.___main@stripTsExtension__.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/universal/files/src/app/.___rootModuleFileName__.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/web-worker/files/worker-tsconfig/._tsconfig.worker.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/web-worker/files/worker/.___name@dasherize__.worker.ts.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/._README.md.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/.___dot__editorconfig.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/.___dot__gitignore.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/._angular.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/._package.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/._tsconfig.base.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/._tsconfig.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@schematics/angular/workspace/files/._tslint.json.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/._empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/amd-function-name/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/assets-in-worker/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/dynamic-import/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-meta/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-worker-url-custom-scheme/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-worker-url/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/module-worker/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/more-workers/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/public-path/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/single-default/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/worker/build/._runner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/ast/esm/types/._basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/ast/esm/types/._nodes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/ast/esm/types/._traverse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/ast/lib/types/._basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/ast/lib/types/._nodes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/ast/lib/types/._traverse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/wasm-parser/esm/types/._decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/@webassemblyjs/wasm-parser/lib/types/._decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/agent-base/test/._ssl-cert-snakeoil.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/agent-base/test/._ssl-cert-snakeoil.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/argparse/node_modules/sprintf-js/demo/._angular.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/aws-sdk/dist/._aws-sdk-react-native.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/aws-sdk/dist/._aws-sdk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/aws-sdk/dist/._aws-sdk.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/._urls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/connections/._connections.directive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/connections/._connections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/help/._help.directive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/help/._help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/history/._history.directive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/history/._history.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/network-throttle/._network-throttle.directive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/network-throttle/._network-throttle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/overview/._overview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/overview/._snippet-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/overview/._url-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/plugins/._plugins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/remote-debug/._compression.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/remote-debug/._no-cache.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/remote-debug/._remote-debug.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/remote-debug/latency/._latency.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/remote-debug/overlay-grid/._overlay-grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/lib/plugins/sync-options/._sync-options.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/public/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/public/fonts/source-sans/._sourcesanspro-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/public/fonts/source-sans/._sourcesanspro-it-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/public/fonts/source-sans/._sourcesanspro-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/public/img/icons/._preview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._button-bars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._heading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._help-content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._lists.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._panels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._switches.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/components/._type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/static/content/._help.content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync-ui/templates/directives/._bs-switch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync/certs/._browsersync.pfx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync/certs/._server.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/browser-sync/certs/._server.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/grunt.html.injection/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/grunt.sass.autoprefixer/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/grunt.sass/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/gulp.browserify/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/gulp.ruby.sass/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/gulp.sass/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/gulp.swig/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/gulp.task.sequence/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/html.injection/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/middleware.css.injection/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/server.gzipped.assets/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/server.includes/app/._footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/server.includes/app/._header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/server.includes/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/server.middleware/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/server/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.babel/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.monkey-hot-loader/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.preact-hot-loader/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.react-hot-loader/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.react-transform-hmr/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.typescript.react/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-recipes/recipes/webpack.typescript/app/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/bs-snippet-injector/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/camel-case/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/camel-case/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/chrome-trace-event/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/chrome-trace-event/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/colornames/example/color-table/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/console-browserify/test/static/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.date.to-primitive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.date.to-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.function.name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.number.constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.object.to-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.regexp.flags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.regexp.match.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.regexp.replace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.regexp.search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.regexp.split.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/library/modules/._es6.regexp.to-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.date.to-primitive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.date.to-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.function.name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.number.constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.object.to-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.regexp.flags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.regexp.match.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.regexp.replace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.regexp.search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.regexp.split.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/core-js/modules/library/._es6.regexp.to-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/crypto-browserify/example/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/decimal.js/doc/._API.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/dot-case/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/dot-case/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/eslint/lib/cli-engine/formatters/._html-template-message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/eslint/lib/cli-engine/formatters/._html-template-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/eslint/lib/cli-engine/formatters/._html-template-result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/eventsource/example/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/._TODO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.address.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.commerce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.company.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.finance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.hacker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.helpers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.internet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.lorem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.name.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.phone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.random.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._faker.system.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._namespaces.list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/._quicksearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faker/locale/.publish/fonts/._glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faye-websocket/examples/._sse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/faye-websocket/examples/._ws.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/http-proxy-agent/test/._ssl-cert-snakeoil.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/http-proxy-agent/test/._ssl-cert-snakeoil.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/insight/node_modules/mute-stream/coverage/lcov-report/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/insight/node_modules/mute-stream/coverage/lcov-report/__root__/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/insight/node_modules/mute-stream/coverage/lcov-report/__root__/._mute.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/jhipster-core/lib/dsl/gen/._grammar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/jhipster-core/test/._bundle_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/jhipster-core/test/test_files/._invalid_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/jmespath/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/jmespath/._james.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/jsbn/._example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/json3/._changes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/loglevel/test/._manual-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/loglevel/test/._test-qunit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/lower-case/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/lower-case/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/no-case/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/no-case/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/node-libs-browser/mock/._empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/param-case/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/param-case/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/pascal-case/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/pascal-case/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/prettier-plugin-java/node_modules/prettier/._index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/prettier-plugin-java/node_modules/prettier/._parser-flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/prettier-plugin-java/node_modules/prettier/._parser-typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/prettier/._index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/prettier/._parser-flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/prettier/._parser-typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/public-encrypt/test/._test_cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/public-encrypt/test/._test_key.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/public-encrypt/test/._test_rsa_privkey.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/public-encrypt/test/._test_rsa_privkey_encrypted.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/public-encrypt/test/._test_rsa_pubkey.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/reflect-metadata/docs/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/pathfilter/deep_ref/._main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/._mug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/baz/._doom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/browser_field/._a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/browser_field/._b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/multirepo/packages/package-b/._index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/other_path/._root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/other_path/lib/._other-lib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/resolver/symlinked/_/node_modules/._foo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/resolve/test/shadowed_core/node_modules/util/._index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/rxjs/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/rxjs/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/sass/._sass.dart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/sax/._LICENSE-W3C.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/serve-index/public/._directory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/socks-proxy-agent/node_modules/agent-base/test/._ssl-cert-snakeoil.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/socks-proxy-agent/node_modules/agent-base/test/._ssl-cert-snakeoil.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/socks-proxy-agent/test/._ssl-cert-snakeoil.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/socks-proxy-agent/test/._ssl-cert-snakeoil.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/spawn-sync/test/._test-empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/swagger-ui-dist/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/swagger-ui-dist/._oauth2-redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/terser/tools/._props.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tryer/test/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tslint/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tslint/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tsutils/node_modules/tslib/._tslib.es6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/tsutils/node_modules/tslib/._tslib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/typescript/lib/._tsc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/typescript/lib/._tsserver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/typescript/lib/._tsserverlibrary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/typescript/lib/._typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/typescript/lib/._typescriptServices.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/typescript/lib/._typingsInstaller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/ua-parser-js/dist/._ua-parser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/unique-filename/coverage/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/unique-filename/coverage/__root__/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/unique-filename/coverage/__root__/._index.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/vm-browserify/example/run/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/webpack-dev-server/client/._live.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/webpack/web_modules/._node-libs-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/node_modules/workbox-build/node_modules/@babel/core/lib/config/files/._types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/data/._authority.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/data/._user.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/data/._user_authority.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/fake-data/._atendimento.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/fake-data/._exame.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/config/tls/._keystore.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/templates/._error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/templates/mail/._activationEmail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/templates/mail/._creationEmail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/resources/templates/mail/._passwordResetEmail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/._404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/activate/._activate.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/password-reset/finish/._password-reset-finish.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/password-reset/init/._password-reset-init.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/password/._password.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/register/._register.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/sessions/._sessions.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/settings/._settings.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/audits/._audits.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/configuration/._configuration.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/docs/._docs.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/health/._health-modal.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/health/._health.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/logs/._logs.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/metrics/._metrics.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/user-management/._user-management-delete-dialog.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/user-management/._user-management-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/user-management/._user-management-update.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/admin/user-management/._user-management.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/atendimento/._atendimento-delete-dialog.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/atendimento/._atendimento-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/atendimento/._atendimento-update.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/atendimento/._atendimento.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/exame/._exame-delete-dialog.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/exame/._exame-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/exame/._exame-update.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/exame/._exame.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/home/._home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/error/._error.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/footer/._footer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/main/._main.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/navbar/._navbar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/app/shared/login/._login.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/main/webapp/swagger-ui/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste/src/test/resources/templates/mail/._testEmail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/.yo-rc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/java/br/com/prontuariounico/config/CacheConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/java/br/com/prontuariounico/config/CacheConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/resources/config/liquibase/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/register/register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/account/register/register.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/entity.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/entities/entity.module.ts" afterDir="false" />
+    <list default="true" id="f386c741-448d-45f3-8c84-b7fc3bd7c0b7" name="Default Changelist" comment="adicionando prontuario unico">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/error/error.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/error/error.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/i18n/pt-br/global.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/i18n/pt-br/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/profiles/page-ribbon.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/app/layouts/profiles/page-ribbon.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/i18n/pt-br/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProntuarioUnicoOficialTeste/src/main/webapp/i18n/pt-br/home.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ProntuarioUnicoOficialTeste">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/__MACOSX/ProntuarioUnicoOficialTeste">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ProntuarioUnicoOficialTeste" />
   </component>
   <component name="ProjectId" id="1lNX5V9kpo4T3c6YjzTbHvcPeNJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -414,9 +40,36 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProntuarioUnicoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.prontuariounico.ProntuarioUnicoApp" />
+      <module name="br.com.prontuariounico.prontuario-unico.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.prontuariounico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProntuarioUnicoApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -427,6 +80,50 @@
       <option name="presentableId" value="Default" />
       <updated>1607438339635</updated>
     </task>
+    <task id="LOCAL-00001" summary="adicionando prontuario unico">
+      <created>1607441004536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607441004536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adicionando prontuario unico">
+      <created>1607441011226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607441011226</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adicionando prontuario unico">
+      <created>1607441026489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607441026489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adicionando prontuario unico">
+      <created>1607441030435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607441030435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adicionando prontuario unico" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando prontuario unico" />
   </component>
 </project>
